@@ -1,0 +1,26 @@
+html,
+body {
+    background: #f7f7f7;
+    font-size: 10pt;
+    font-family: 'Open Sans', sans-serif
+}
+
+/* DESKTOP */
+
+/* X TABLET */
+@media (max-width: 1200px) {}
+
+/* TABLET */
+@media (max-width: 992px) {}
+
+/* X PHONE */
+@media (max-width: 768px) {}
+
+/* PHONE */
+@media (max-width: 576px) {}
+
+/* S PHONE */
+@media (max-width: 375px) {}
+
+/* XS PHONE */
+@media (max-width: 320px) {}
